@@ -1,0 +1,3 @@
+# Disregard certain folders
+.svn/
+Release/
